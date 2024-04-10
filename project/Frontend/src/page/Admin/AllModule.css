@@ -1,0 +1,24 @@
+/* AllModule.css */
+
+.container {
+    text-align: center;
+  }
+  
+  .heading {
+    margin-bottom: 20px;
+  }
+  
+  .listItem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    border: 1px solid #ddd; /* Add border */
+    padding: 10px; /* Add padding */
+  }
+  
+  .button {
+    background-color: #007bff;
+    color: #ffffff;
+  }
+  

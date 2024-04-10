@@ -1,0 +1,36 @@
+.quiz-heading {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #333; /* Example color */
+  }
+  
+  .quiz-form-container {
+    padding: 20px;
+    border-radius: 8px;
+    width: 60%;
+    margin: 0 auto;
+    background-color: #f5f5f5; /* Example background color */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Example shadow */
+  }
+  
+  .question-container {
+    margin-bottom: 20px;
+  }
+  
+  .option-container {
+    margin-top: 10px;
+  }
+  
+  .add-option-button {
+    margin-top: 10px;
+  }
+  
+  .add-question-button {
+    margin-top: 20px;
+  }
+  
+  .submit-button {
+    margin-top: 20px;
+  }
+  
