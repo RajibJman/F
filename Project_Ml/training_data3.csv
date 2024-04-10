@@ -1,0 +1,1001 @@
+Topic,Trainee Count,Level,Start Date,End Date
+ML Basics,15,advanced,11/01/2023,19/01/2023
+ML Basics,42,basic,18/07/2023,20/07/2023
+Full Stack,56,intermediate,14/03/2021,20/03/2021
+Cloud Platforms,27,advanced,23/01/2023,31/01/2023
+Data Engineering,70,intermediate,10/06/2023,17/06/2023
+Python for DS,68,advanced,09/03/2023,18/03/2023
+Python & Web Scraping,55,advanced,09/03/2023,17/03/2023
+DBT,76,advanced,31/10/2022,10/11/2022
+Python for DS,54,advanced,21/05/2021,31/05/2021
+ML Basics,55,intermediate,14/02/2023,21/02/2023
+Git & Version Control,75,basic,19/10/2023,20/10/2023
+Cloud Platforms,21,intermediate,22/01/2020,28/01/2020
+DevOps Operations,28,intermediate,01/03/2023,06/03/2023
+ML Basics,58,advanced,24/02/2020,03/03/2020
+ML Basics,56,advanced,24/04/2020,02/05/2020
+Full Stack,15,intermediate,20/05/2022,25/05/2022
+ML Basics,45,intermediate,26/06/2022,02/07/2022
+ADF,53,advanced,22/09/2023,01/10/2023
+Git & Version Control,19,intermediate,29/10/2020,05/11/2020
+ADF,15,basic,30/08/2021,02/09/2021
+Cloud Platforms,50,intermediate,16/04/2023,21/04/2023
+Python for DS,32,basic,09/07/2020,10/07/2020
+Data Warehouse - ETL,33,basic,28/11/2020,01/12/2020
+Data Engineering,17,intermediate,22/01/2023,28/01/2023
+Full Stack,55,intermediate,27/12/2023,01/01/2024
+DevOps Operations,22,advanced,07/06/2023,17/06/2023
+DBMS,20,advanced,27/05/2020,05/06/2020
+SQL,67,advanced,10/10/2020,19/10/2020
+ADF,73,intermediate,10/02/2023,17/02/2023
+Git & Version Control,36,intermediate,05/08/2022,10/08/2022
+Data Engineering,70,advanced,24/11/2022,03/12/2022
+Git & Version Control,31,advanced,27/11/2020,07/12/2020
+Git & Version Control,14,basic,04/07/2021,05/07/2021
+Git & Version Control,61,basic,30/09/2020,04/10/2020
+DBT,34,basic,06/09/2022,10/09/2022
+ML Basics,47,advanced,16/05/2020,26/05/2020
+Data Engineering,35,basic,20/10/2021,24/10/2021
+SQL,67,basic,22/05/2021,24/05/2021
+ML Basics,11,basic,09/09/2021,11/09/2021
+Full Stack,76,intermediate,23/04/2022,28/04/2022
+ADF,26,advanced,04/12/2020,13/12/2020
+ADF,24,advanced,12/02/2020,20/02/2020
+ML Basics,36,basic,03/08/2023,05/08/2023
+Git & Version Control,19,intermediate,18/09/2022,25/09/2022
+Data Engineering,26,advanced,27/10/2020,06/11/2020
+DBT,38,advanced,13/05/2023,21/05/2023
+Python for DS,26,intermediate,21/11/2021,26/11/2021
+SQL,22,intermediate,02/04/2020,08/04/2020
+Data Engineering,38,intermediate,13/07/2023,18/07/2023
+DBT,61,advanced,30/06/2023,08/07/2023
+Data Engineering,32,intermediate,02/09/2021,07/09/2021
+ML Basics,44,intermediate,05/03/2023,11/03/2023
+Data Engineering,66,intermediate,07/12/2023,12/12/2023
+DevOps Operations,47,intermediate,25/03/2024,30/03/2024
+Data Engineering,37,intermediate,03/03/2021,09/03/2021
+Cloud Platforms,75,intermediate,20/01/2020,25/01/2020
+Cloud Platforms,60,advanced,06/12/2023,15/12/2023
+Git & Version Control,67,intermediate,18/02/2021,23/02/2021
+Data Warehouse - ETL,34,advanced,27/03/2020,04/04/2020
+ML Basics,41,basic,08/11/2020,12/11/2020
+ADF,50,basic,17/08/2023,18/08/2023
+SQL,63,intermediate,28/03/2023,02/04/2023
+Python & Web Scraping,50,intermediate,15/09/2020,22/09/2020
+DBMS,33,advanced,22/09/2022,30/09/2022
+Git & Version Control,23,basic,10/05/2020,14/05/2020
+Analytics & Reporting,23,advanced,14/08/2021,24/08/2021
+DBT,22,basic,23/04/2023,24/04/2023
+SQL,28,intermediate,28/07/2021,03/08/2021
+Power BI,35,basic,29/05/2022,02/06/2022
+Data Engineering,33,advanced,21/08/2023,30/08/2023
+SQL,43,basic,12/01/2024,14/01/2024
+Analytics & Reporting,49,basic,12/08/2021,13/08/2021
+Data Warehouse - ETL,40,advanced,08/02/2020,17/02/2020
+Python & Web Scraping,72,intermediate,03/10/2023,10/10/2023
+ML Basics,68,intermediate,12/10/2023,17/10/2023
+Power BI,58,intermediate,24/04/2020,01/05/2020
+Python & Web Scraping,16,basic,17/02/2022,19/02/2022
+Python for DS,63,advanced,26/03/2020,05/04/2020
+Data Engineering,11,basic,24/04/2023,28/04/2023
+Git & Version Control,73,intermediate,02/07/2020,07/07/2020
+ML Basics,74,advanced,03/06/2022,11/06/2022
+SQL,74,intermediate,24/06/2020,01/07/2020
+SQL,76,advanced,21/10/2022,30/10/2022
+Cloud Platforms,44,intermediate,17/09/2021,23/09/2021
+SQL,29,basic,21/12/2023,23/12/2023
+DBMS,63,intermediate,30/07/2023,04/08/2023
+Data Warehouse - ETL,54,advanced,10/03/2021,19/03/2021
+Git & Version Control,46,intermediate,04/07/2020,09/07/2020
+Git & Version Control,51,intermediate,13/02/2022,18/02/2022
+DBT,37,advanced,30/09/2021,08/10/2021
+Analytics & Reporting,67,basic,30/04/2022,01/05/2022
+DBT,32,advanced,03/06/2023,11/06/2023
+ADF,58,basic,18/07/2021,19/07/2021
+Python for DS,41,intermediate,17/01/2020,24/01/2020
+DevOps Operations,48,basic,08/05/2020,12/05/2020
+Git & Version Control,69,intermediate,21/01/2020,27/01/2020
+Data Warehouse - ETL,20,intermediate,19/02/2022,24/02/2022
+Git & Version Control,71,basic,11/03/2023,15/03/2023
+Data Warehouse - ETL,31,advanced,12/06/2021,21/06/2021
+Full Stack,60,basic,06/01/2021,07/01/2021
+Python & Web Scraping,47,advanced,02/10/2021,11/10/2021
+ADF,42,intermediate,23/02/2020,28/02/2020
+ADF,67,intermediate,08/02/2023,13/02/2023
+Cloud Platforms,74,intermediate,29/09/2023,04/10/2023
+DBMS,38,advanced,13/04/2022,22/04/2022
+Power BI,73,advanced,09/10/2021,19/10/2021
+DBT,52,basic,26/04/2022,27/04/2022
+Python & Web Scraping,61,intermediate,13/11/2023,19/11/2023
+Data Engineering,77,basic,16/09/2022,20/09/2022
+ML Basics,25,advanced,26/02/2023,08/03/2023
+Analytics & Reporting,51,intermediate,22/10/2020,29/10/2020
+Cloud Platforms,42,advanced,15/02/2020,25/02/2020
+DBT,17,intermediate,17/03/2022,24/03/2022
+Python for DS,67,intermediate,25/08/2020,31/08/2020
+SQL,23,intermediate,08/08/2022,15/08/2022
+Git & Version Control,44,basic,28/04/2022,30/04/2022
+Git & Version Control,27,intermediate,03/04/2024,09/04/2024
+DBT,63,advanced,12/03/2024,20/03/2024
+Data Warehouse - ETL,64,basic,07/05/2020,09/05/2020
+Analytics & Reporting,56,advanced,20/06/2021,28/06/2021
+Python for DS,26,advanced,30/04/2021,08/05/2021
+DBMS,56,basic,11/05/2022,15/05/2022
+Data Engineering,72,advanced,13/12/2020,22/12/2020
+Power BI,29,basic,20/03/2022,24/03/2022
+DevOps Operations,78,advanced,11/04/2022,21/04/2022
+Analytics & Reporting,44,advanced,12/04/2020,20/04/2020
+SQL,44,intermediate,21/03/2023,27/03/2023
+ADF,58,advanced,17/12/2023,27/12/2023
+Full Stack,75,intermediate,19/03/2023,26/03/2023
+Data Warehouse - ETL,57,advanced,08/06/2022,16/06/2022
+DBT,73,advanced,19/04/2021,27/04/2021
+ADF,26,advanced,17/07/2020,26/07/2020
+SQL,59,basic,31/03/2020,03/04/2020
+Power BI,23,intermediate,23/03/2024,28/03/2024
+SQL,49,advanced,19/03/2024,27/03/2024
+Python & Web Scraping,23,intermediate,22/03/2023,29/03/2023
+ADF,74,intermediate,04/01/2023,11/01/2023
+Data Warehouse - ETL,17,basic,06/11/2022,10/11/2022
+Power BI,73,advanced,05/06/2021,14/06/2021
+Analytics & Reporting,59,advanced,29/03/2022,07/04/2022
+Cloud Platforms,67,intermediate,17/09/2021,23/09/2021
+Power BI,28,basic,10/12/2023,11/12/2023
+DevOps Operations,31,intermediate,29/08/2020,03/09/2020
+Power BI,76,advanced,25/02/2021,05/03/2021
+Data Warehouse - ETL,54,advanced,06/12/2023,14/12/2023
+Analytics & Reporting,15,basic,11/04/2021,15/04/2021
+Full Stack,41,intermediate,09/05/2021,14/05/2021
+DBT,44,intermediate,03/04/2023,10/04/2023
+DBT,24,basic,26/12/2022,27/12/2022
+ADF,67,advanced,18/11/2021,28/11/2021
+DevOps Operations,59,basic,06/04/2023,09/04/2023
+Git & Version Control,43,advanced,10/11/2023,20/11/2023
+Python & Web Scraping,75,advanced,16/07/2023,25/07/2023
+DevOps Operations,59,basic,06/04/2021,08/04/2021
+ADF,16,advanced,21/03/2020,29/03/2020
+Analytics & Reporting,59,advanced,12/03/2024,21/03/2024
+Full Stack,66,intermediate,31/07/2022,06/08/2022
+Analytics & Reporting,29,basic,12/03/2023,16/03/2023
+DevOps Operations,23,intermediate,06/06/2020,12/06/2020
+ML Basics,26,intermediate,05/08/2021,10/08/2021
+Cloud Platforms,60,advanced,12/08/2022,20/08/2022
+Python & Web Scraping,27,intermediate,07/09/2023,12/09/2023
+Cloud Platforms,59,basic,26/07/2022,28/07/2022
+ADF,30,intermediate,30/05/2020,05/06/2020
+Full Stack,42,basic,21/07/2023,22/07/2023
+Analytics & Reporting,19,intermediate,23/10/2021,28/10/2021
+Analytics & Reporting,79,basic,24/12/2023,27/12/2023
+Data Engineering,31,intermediate,29/12/2022,05/01/2023
+Full Stack,29,intermediate,29/09/2020,05/10/2020
+ADF,11,basic,24/05/2021,25/05/2021
+Full Stack,53,advanced,06/05/2020,15/05/2020
+Python for DS,63,intermediate,24/11/2020,30/11/2020
+DBT,66,intermediate,18/04/2021,23/04/2021
+Analytics & Reporting,12,basic,29/03/2023,31/03/2023
+DBMS,49,basic,30/10/2020,01/11/2020
+Python for DS,66,basic,30/01/2024,02/02/2024
+SQL,41,advanced,12/03/2022,20/03/2022
+DevOps Operations,80,intermediate,14/09/2022,20/09/2022
+Full Stack,47,advanced,09/08/2023,18/08/2023
+SQL,50,basic,14/04/2020,18/04/2020
+Cloud Platforms,14,basic,19/10/2021,22/10/2021
+DBT,20,intermediate,10/07/2023,15/07/2023
+Cloud Platforms,70,intermediate,17/11/2022,24/11/2022
+Python & Web Scraping,46,intermediate,06/03/2023,12/03/2023
+ML Basics,12,intermediate,28/04/2021,04/05/2021
+Python for DS,68,intermediate,27/01/2022,03/02/2022
+Data Warehouse - ETL,23,basic,12/04/2022,15/04/2022
+DevOps Operations,79,advanced,19/12/2022,27/12/2022
+Cloud Platforms,13,advanced,25/09/2022,03/10/2022
+SQL,64,intermediate,29/05/2020,04/06/2020
+Full Stack,47,basic,31/12/2021,01/01/2022
+DBT,22,intermediate,21/05/2023,28/05/2023
+Power BI,58,basic,20/04/2021,22/04/2021
+DevOps Operations,57,intermediate,13/01/2023,19/01/2023
+ADF,17,advanced,19/08/2022,29/08/2022
+Python & Web Scraping,73,basic,29/02/2020,02/03/2020
+SQL,13,intermediate,08/11/2021,13/11/2021
+Git & Version Control,68,basic,18/05/2023,20/05/2023
+Analytics & Reporting,54,basic,13/03/2023,17/03/2023
+Python & Web Scraping,36,intermediate,29/07/2021,04/08/2021
+Python & Web Scraping,66,basic,10/12/2020,14/12/2020
+ML Basics,77,basic,21/05/2020,22/05/2020
+ML Basics,74,basic,08/06/2021,11/06/2021
+Data Engineering,68,basic,06/05/2022,07/05/2022
+Data Warehouse - ETL,67,basic,02/08/2020,03/08/2020
+DBT,62,advanced,08/01/2021,17/01/2021
+Data Engineering,31,basic,19/11/2021,21/11/2021
+Python & Web Scraping,68,basic,29/03/2020,30/03/2020
+Analytics & Reporting,46,advanced,02/11/2023,12/11/2023
+ML Basics,24,intermediate,12/08/2020,18/08/2020
+Python for DS,55,basic,06/12/2023,07/12/2023
+Data Engineering,50,basic,25/01/2022,26/01/2022
+SQL,43,intermediate,22/06/2023,28/06/2023
+Git & Version Control,47,advanced,22/02/2023,02/03/2023
+SQL,55,basic,25/12/2022,28/12/2022
+Cloud Platforms,66,basic,12/04/2023,14/04/2023
+ADF,12,intermediate,27/10/2023,01/11/2023
+Cloud Platforms,54,advanced,18/02/2023,26/02/2023
+Python & Web Scraping,53,intermediate,26/07/2021,02/08/2021
+Git & Version Control,56,intermediate,24/08/2022,29/08/2022
+Python for DS,17,advanced,06/07/2020,16/07/2020
+DBT,14,advanced,02/11/2023,11/11/2023
+Data Warehouse - ETL,71,advanced,28/12/2023,07/01/2024
+ML Basics,70,intermediate,03/07/2020,09/07/2020
+Git & Version Control,37,advanced,03/08/2023,12/08/2023
+Power BI,43,intermediate,18/07/2020,23/07/2020
+ML Basics,15,intermediate,18/03/2021,23/03/2021
+ADF,47,basic,20/03/2022,23/03/2022
+DBMS,28,advanced,18/01/2020,27/01/2020
+Git & Version Control,63,intermediate,29/11/2021,05/12/2021
+Python & Web Scraping,50,intermediate,28/10/2022,04/11/2022
+DevOps Operations,50,intermediate,15/07/2020,22/07/2020
+DBMS,23,advanced,08/03/2021,16/03/2021
+Power BI,25,intermediate,05/03/2021,10/03/2021
+DBT,48,basic,27/02/2024,29/02/2024
+Data Warehouse - ETL,53,basic,06/06/2022,08/06/2022
+Python for DS,23,basic,15/05/2021,17/05/2021
+Full Stack,21,basic,14/04/2021,17/04/2021
+Git & Version Control,51,basic,04/04/2022,08/04/2022
+Python for DS,49,basic,29/04/2023,01/05/2023
+Cloud Platforms,10,advanced,16/01/2023,24/01/2023
+Power BI,54,advanced,11/11/2023,19/11/2023
+Data Warehouse - ETL,46,basic,26/01/2024,29/01/2024
+Data Warehouse - ETL,47,advanced,17/08/2021,26/08/2021
+DBMS,23,basic,28/03/2021,31/03/2021
+Python for DS,13,basic,21/03/2022,23/03/2022
+Cloud Platforms,18,intermediate,04/11/2022,09/11/2022
+Git & Version Control,13,advanced,01/12/2023,10/12/2023
+Data Warehouse - ETL,34,advanced,16/01/2022,26/01/2022
+ADF,68,intermediate,09/03/2023,14/03/2023
+SQL,47,basic,16/12/2020,19/12/2020
+Power BI,43,advanced,12/07/2022,21/07/2022
+ADF,18,intermediate,01/11/2021,07/11/2021
+SQL,65,intermediate,15/05/2022,21/05/2022
+Cloud Platforms,37,basic,19/05/2021,21/05/2021
+ML Basics,56,basic,23/04/2023,27/04/2023
+Power BI,29,intermediate,20/08/2021,27/08/2021
+Python for DS,57,basic,24/02/2021,27/02/2021
+Full Stack,37,advanced,05/10/2021,15/10/2021
+DBMS,80,advanced,18/07/2020,26/07/2020
+Analytics & Reporting,63,basic,02/02/2024,04/02/2024
+ML Basics,71,advanced,26/11/2021,04/12/2021
+DBMS,36,intermediate,16/01/2022,23/01/2022
+Data Engineering,33,advanced,04/12/2020,14/12/2020
+Power BI,41,intermediate,29/08/2022,03/09/2022
+Git & Version Control,67,intermediate,31/12/2021,07/01/2022
+Power BI,33,intermediate,23/03/2022,28/03/2022
+Cloud Platforms,40,advanced,22/07/2020,30/07/2020
+DBMS,41,intermediate,16/11/2022,21/11/2022
+Full Stack,34,advanced,10/10/2021,19/10/2021
+DevOps Operations,39,basic,20/04/2020,22/04/2020
+Python & Web Scraping,25,advanced,24/02/2020,04/03/2020
+Data Engineering,48,advanced,12/03/2023,20/03/2023
+Git & Version Control,33,intermediate,15/03/2021,20/03/2021
+DBMS,47,intermediate,06/06/2022,12/06/2022
+Git & Version Control,66,advanced,05/04/2020,15/04/2020
+DevOps Operations,29,basic,27/01/2021,29/01/2021
+DBMS,54,intermediate,13/03/2021,18/03/2021
+Power BI,19,intermediate,26/11/2023,03/12/2023
+Python for DS,76,intermediate,10/11/2021,15/11/2021
+Python for DS,14,intermediate,06/08/2021,13/08/2021
+DBMS,32,advanced,22/07/2023,01/08/2023
+Data Warehouse - ETL,72,basic,11/11/2023,13/11/2023
+Analytics & Reporting,29,basic,29/09/2022,03/10/2022
+SQL,42,advanced,30/04/2023,09/05/2023
+Analytics & Reporting,78,basic,13/09/2023,17/09/2023
+Analytics & Reporting,65,intermediate,20/03/2021,26/03/2021
+DBT,71,advanced,17/05/2023,26/05/2023
+DBMS,66,basic,07/05/2020,09/05/2020
+ADF,23,advanced,11/09/2023,20/09/2023
+DBT,53,basic,17/01/2021,21/01/2021
+Data Engineering,46,intermediate,04/11/2021,09/11/2021
+Data Engineering,12,advanced,03/07/2020,13/07/2020
+DevOps Operations,63,advanced,26/06/2023,04/07/2023
+ADF,32,advanced,04/09/2020,14/09/2020
+ADF,24,basic,29/01/2024,30/01/2024
+Analytics & Reporting,15,intermediate,03/08/2023,09/08/2023
+Git & Version Control,48,basic,04/09/2023,08/09/2023
+ML Basics,40,advanced,14/02/2024,23/02/2024
+DevOps Operations,13,basic,04/11/2021,05/11/2021
+Data Warehouse - ETL,16,intermediate,21/06/2023,27/06/2023
+Cloud Platforms,61,advanced,17/02/2024,25/02/2024
+Python for DS,68,advanced,04/04/2023,12/04/2023
+DevOps Operations,44,intermediate,24/04/2022,01/05/2022
+DBT,36,basic,23/10/2023,25/10/2023
+ADF,38,advanced,25/02/2024,04/03/2024
+Data Engineering,16,advanced,03/05/2022,12/05/2022
+Data Engineering,74,intermediate,25/07/2020,31/07/2020
+Python for DS,69,advanced,30/05/2021,07/06/2021
+Full Stack,58,basic,01/03/2023,05/03/2023
+DevOps Operations,33,intermediate,22/12/2023,28/12/2023
+DBMS,25,intermediate,05/10/2020,10/10/2020
+ML Basics,43,basic,08/06/2022,11/06/2022
+Git & Version Control,74,intermediate,23/01/2023,30/01/2023
+DevOps Operations,36,advanced,30/08/2023,09/09/2023
+ML Basics,11,advanced,02/12/2023,12/12/2023
+Data Warehouse - ETL,64,intermediate,25/03/2021,01/04/2021
+DevOps Operations,41,intermediate,30/05/2023,04/06/2023
+ADF,49,intermediate,16/09/2021,23/09/2021
+SQL,65,intermediate,15/06/2023,20/06/2023
+Git & Version Control,74,basic,09/08/2022,10/08/2022
+ADF,41,basic,13/01/2022,14/01/2022
+Python & Web Scraping,77,basic,07/10/2020,10/10/2020
+DBT,70,advanced,23/07/2021,01/08/2021
+Analytics & Reporting,16,basic,22/06/2021,26/06/2021
+ML Basics,62,intermediate,15/03/2021,22/03/2021
+Analytics & Reporting,67,intermediate,25/04/2021,30/04/2021
+Power BI,16,advanced,10/02/2024,20/02/2024
+SQL,31,basic,18/12/2023,19/12/2023
+DevOps Operations,16,intermediate,03/05/2022,10/05/2022
+Data Warehouse - ETL,80,advanced,04/08/2021,13/08/2021
+Analytics & Reporting,11,advanced,09/06/2021,17/06/2021
+DevOps Operations,47,advanced,18/07/2022,26/07/2022
+Analytics & Reporting,66,intermediate,28/04/2023,04/05/2023
+Full Stack,27,intermediate,27/09/2021,04/10/2021
+Python for DS,51,basic,14/08/2023,15/08/2023
+SQL,30,basic,22/09/2021,24/09/2021
+Data Warehouse - ETL,15,intermediate,05/03/2021,10/03/2021
+SQL,60,intermediate,18/09/2021,23/09/2021
+Data Warehouse - ETL,73,advanced,25/03/2023,03/04/2023
+Cloud Platforms,28,intermediate,04/01/2021,10/01/2021
+SQL,35,intermediate,14/07/2020,21/07/2020
+Python & Web Scraping,57,basic,13/06/2023,15/06/2023
+SQL,14,intermediate,16/09/2021,21/09/2021
+Python & Web Scraping,73,advanced,22/07/2022,01/08/2022
+Data Warehouse - ETL,17,basic,29/06/2023,01/07/2023
+Analytics & Reporting,62,advanced,01/11/2021,10/11/2021
+Full Stack,41,basic,20/07/2022,24/07/2022
+SQL,66,basic,19/02/2021,22/02/2021
+Data Warehouse - ETL,80,advanced,18/09/2022,27/09/2022
+Git & Version Control,70,intermediate,22/02/2021,01/03/2021
+Git & Version Control,45,advanced,15/10/2022,25/10/2022
+Analytics & Reporting,55,advanced,09/11/2023,19/11/2023
+DevOps Operations,56,intermediate,09/08/2021,15/08/2021
+Data Warehouse - ETL,21,intermediate,27/02/2021,05/03/2021
+ML Basics,64,basic,26/11/2023,28/11/2023
+DBT,46,basic,20/10/2020,22/10/2020
+Git & Version Control,15,basic,08/10/2022,11/10/2022
+Data Warehouse - ETL,26,intermediate,20/12/2021,26/12/2021
+DevOps Operations,51,intermediate,23/08/2023,30/08/2023
+ML Basics,66,basic,30/04/2021,01/05/2021
+DevOps Operations,78,basic,17/09/2021,20/09/2021
+ADF,62,basic,19/03/2023,22/03/2023
+Data Warehouse - ETL,54,basic,31/05/2021,02/06/2021
+Data Warehouse - ETL,79,intermediate,07/08/2023,14/08/2023
+Python & Web Scraping,76,basic,14/04/2020,15/04/2020
+Python & Web Scraping,53,basic,23/10/2023,24/10/2023
+Analytics & Reporting,22,advanced,04/04/2021,13/04/2021
+DBT,19,advanced,15/03/2021,23/03/2021
+Data Warehouse - ETL,49,basic,15/05/2020,16/05/2020
+Full Stack,18,advanced,27/10/2022,06/11/2022
+Cloud Platforms,69,advanced,06/12/2020,14/12/2020
+ADF,72,basic,17/11/2021,20/11/2021
+Full Stack,64,advanced,23/05/2023,02/06/2023
+Data Engineering,22,advanced,31/12/2020,09/01/2021
+DBMS,14,advanced,02/02/2023,10/02/2023
+Python & Web Scraping,43,intermediate,09/05/2022,14/05/2022
+Cloud Platforms,32,intermediate,27/10/2022,02/11/2022
+Data Engineering,10,advanced,17/10/2021,25/10/2021
+Python & Web Scraping,53,intermediate,03/01/2021,09/01/2021
+Python for DS,21,intermediate,20/06/2020,26/06/2020
+Python for DS,68,advanced,09/09/2021,18/09/2021
+Full Stack,19,basic,21/05/2020,25/05/2020
+DBT,27,advanced,05/09/2023,14/09/2023
+Data Engineering,13,intermediate,15/04/2022,21/04/2022
+DBMS,40,advanced,25/07/2023,04/08/2023
+Full Stack,52,advanced,18/11/2022,26/11/2022
+Git & Version Control,12,basic,30/10/2021,31/10/2021
+Data Warehouse - ETL,27,advanced,22/11/2022,02/12/2022
+SQL,57,advanced,16/09/2020,24/09/2020
+Power BI,32,advanced,02/07/2021,12/07/2021
+Analytics & Reporting,72,basic,02/09/2021,04/09/2021
+Power BI,36,intermediate,01/06/2022,07/06/2022
+SQL,65,advanced,12/12/2020,21/12/2020
+Full Stack,21,advanced,21/02/2022,03/03/2022
+DevOps Operations,27,intermediate,22/05/2023,27/05/2023
+Python for DS,72,advanced,05/12/2021,15/12/2021
+DBT,11,advanced,04/01/2022,12/01/2022
+SQL,77,advanced,23/06/2022,03/07/2022
+Data Warehouse - ETL,40,intermediate,05/05/2022,11/05/2022
+Python for DS,43,intermediate,03/06/2022,09/06/2022
+Data Engineering,68,basic,15/11/2020,18/11/2020
+Data Engineering,60,basic,31/03/2023,01/04/2023
+Data Warehouse - ETL,19,basic,10/10/2021,12/10/2021
+Git & Version Control,31,advanced,21/11/2022,29/11/2022
+Analytics & Reporting,30,advanced,22/05/2023,01/06/2023
+Python & Web Scraping,38,intermediate,03/11/2023,10/11/2023
+Analytics & Reporting,11,advanced,28/07/2022,07/08/2022
+Python for DS,20,intermediate,27/02/2023,04/03/2023
+ML Basics,39,advanced,13/06/2022,23/06/2022
+Cloud Platforms,72,basic,28/11/2022,30/11/2022
+Full Stack,17,basic,21/07/2023,22/07/2023
+Git & Version Control,47,intermediate,23/01/2020,30/01/2020
+DBT,18,basic,25/03/2022,29/03/2022
+ADF,54,basic,03/11/2020,06/11/2020
+Data Engineering,45,advanced,31/10/2023,08/11/2023
+Data Warehouse - ETL,63,intermediate,03/02/2023,10/02/2023
+Analytics & Reporting,45,intermediate,20/02/2021,27/02/2021
+Data Warehouse - ETL,36,intermediate,28/07/2021,03/08/2021
+Data Engineering,67,advanced,27/06/2021,05/07/2021
+Data Engineering,20,basic,11/04/2024,14/04/2024
+DBT,33,advanced,12/08/2023,21/08/2023
+DBT,68,intermediate,29/10/2021,03/11/2021
+DBT,50,basic,11/10/2023,13/10/2023
+ADF,12,intermediate,04/12/2022,11/12/2022
+DBMS,28,advanced,09/07/2020,19/07/2020
+Power BI,60,advanced,21/10/2022,30/10/2022
+Git & Version Control,54,advanced,18/09/2023,28/09/2023
+ML Basics,77,basic,03/10/2022,05/10/2022
+Power BI,25,basic,10/09/2020,13/09/2020
+Full Stack,67,basic,13/03/2024,16/03/2024
+Git & Version Control,77,intermediate,28/01/2020,03/02/2020
+SQL,33,intermediate,12/02/2021,18/02/2021
+Data Warehouse - ETL,48,intermediate,09/08/2020,15/08/2020
+SQL,76,intermediate,28/06/2021,05/07/2021
+DevOps Operations,57,intermediate,08/03/2022,15/03/2022
+ADF,31,intermediate,06/03/2024,12/03/2024
+ADF,11,intermediate,23/07/2021,29/07/2021
+Power BI,17,basic,01/07/2023,02/07/2023
+ML Basics,21,intermediate,13/04/2022,18/04/2022
+Git & Version Control,22,advanced,03/01/2022,11/01/2022
+Data Engineering,29,intermediate,02/08/2022,07/08/2022
+DBMS,50,basic,18/07/2020,20/07/2020
+ADF,20,advanced,30/04/2021,08/05/2021
+Python & Web Scraping,62,intermediate,15/09/2023,21/09/2023
+DevOps Operations,21,advanced,13/11/2022,22/11/2022
+SQL,38,advanced,19/10/2022,27/10/2022
+DevOps Operations,26,basic,27/01/2021,30/01/2021
+Data Warehouse - ETL,69,basic,15/05/2021,17/05/2021
+Data Warehouse - ETL,12,intermediate,14/12/2021,21/12/2021
+DevOps Operations,22,advanced,30/05/2022,07/06/2022
+Data Warehouse - ETL,46,intermediate,12/05/2023,18/05/2023
+Python & Web Scraping,79,intermediate,19/03/2020,26/03/2020
+Git & Version Control,63,advanced,25/01/2020,04/02/2020
+DBT,68,basic,16/09/2022,19/09/2022
+DBT,59,basic,30/06/2023,03/07/2023
+ADF,23,advanced,22/01/2024,31/01/2024
+ADF,77,advanced,04/04/2021,12/04/2021
+ML Basics,71,intermediate,03/07/2020,09/07/2020
+SQL,56,intermediate,04/03/2020,09/03/2020
+DBT,74,basic,16/02/2024,18/02/2024
+ML Basics,22,intermediate,02/09/2023,08/09/2023
+ML Basics,23,intermediate,31/03/2024,06/04/2024
+Data Engineering,17,basic,18/10/2022,22/10/2022
+Analytics & Reporting,65,basic,23/10/2023,26/10/2023
+DBMS,57,advanced,29/02/2020,08/03/2020
+SQL,29,intermediate,08/04/2021,14/04/2021
+SQL,14,advanced,24/07/2022,01/08/2022
+Cloud Platforms,55,basic,09/04/2021,12/04/2021
+DBMS,12,advanced,03/12/2023,11/12/2023
+Git & Version Control,48,intermediate,13/10/2020,20/10/2020
+Data Warehouse - ETL,36,basic,23/09/2023,24/09/2023
+DevOps Operations,47,intermediate,30/08/2020,05/09/2020
+DBMS,67,intermediate,16/03/2023,21/03/2023
+DevOps Operations,29,basic,03/05/2020,05/05/2020
+Data Warehouse - ETL,48,basic,29/05/2021,01/06/2021
+DBT,32,intermediate,02/04/2020,07/04/2020
+DBT,63,basic,05/09/2023,08/09/2023
+Analytics & Reporting,40,advanced,26/09/2022,05/10/2022
+Full Stack,39,intermediate,05/02/2024,11/02/2024
+Analytics & Reporting,11,advanced,02/10/2023,10/10/2023
+Cloud Platforms,33,advanced,16/10/2020,26/10/2020
+Python & Web Scraping,68,basic,15/08/2021,17/08/2021
+Git & Version Control,56,intermediate,02/10/2021,09/10/2021
+Python for DS,13,intermediate,14/01/2023,21/01/2023
+Git & Version Control,42,intermediate,27/01/2020,03/02/2020
+ML Basics,44,intermediate,15/10/2020,20/10/2020
+Cloud Platforms,64,advanced,15/01/2021,24/01/2021
+Cloud Platforms,63,basic,28/12/2020,30/12/2020
+Git & Version Control,53,basic,09/05/2020,13/05/2020
+DBMS,62,basic,14/01/2024,18/01/2024
+Cloud Platforms,25,intermediate,01/04/2020,06/04/2020
+Data Engineering,77,advanced,26/07/2023,04/08/2023
+SQL,61,advanced,27/02/2021,09/03/2021
+DevOps Operations,54,intermediate,07/08/2022,13/08/2022
+Git & Version Control,58,basic,12/10/2021,14/10/2021
+Power BI,51,intermediate,30/06/2021,05/07/2021
+ML Basics,25,advanced,05/12/2023,15/12/2023
+SQL,25,basic,11/01/2024,13/01/2024
+Analytics & Reporting,12,advanced,26/01/2021,04/02/2021
+Python for DS,44,basic,05/10/2023,06/10/2023
+ML Basics,39,basic,02/12/2021,05/12/2021
+ML Basics,64,intermediate,13/12/2020,18/12/2020
+Cloud Platforms,76,basic,25/09/2023,26/09/2023
+Python & Web Scraping,11,basic,01/08/2020,02/08/2020
+Data Engineering,23,intermediate,13/05/2021,19/05/2021
+Data Engineering,73,basic,20/01/2023,22/01/2023
+Power BI,50,advanced,15/07/2022,23/07/2022
+Cloud Platforms,12,intermediate,15/05/2020,20/05/2020
+DevOps Operations,29,basic,11/08/2021,14/08/2021
+Full Stack,76,intermediate,21/02/2023,27/02/2023
+ML Basics,34,advanced,04/02/2020,13/02/2020
+Python & Web Scraping,72,advanced,04/02/2022,12/02/2022
+Analytics & Reporting,19,advanced,08/05/2023,18/05/2023
+Python for DS,74,advanced,15/01/2024,23/01/2024
+Power BI,13,advanced,18/01/2022,27/01/2022
+Git & Version Control,24,advanced,20/11/2022,30/11/2022
+Full Stack,69,intermediate,01/01/2021,06/01/2021
+DevOps Operations,70,basic,19/05/2023,23/05/2023
+Data Warehouse - ETL,21,basic,07/12/2021,09/12/2021
+DBMS,25,intermediate,24/11/2023,01/12/2023
+Data Engineering,47,basic,12/12/2022,15/12/2022
+DBT,54,advanced,23/07/2022,02/08/2022
+ADF,40,basic,18/11/2021,21/11/2021
+Data Warehouse - ETL,63,basic,16/10/2021,20/10/2021
+DevOps Operations,53,basic,25/05/2021,28/05/2021
+ADF,66,basic,21/06/2020,23/06/2020
+SQL,41,basic,26/02/2021,27/02/2021
+Git & Version Control,74,intermediate,12/01/2024,18/01/2024
+Cloud Platforms,54,basic,10/12/2021,12/12/2021
+Data Warehouse - ETL,75,advanced,29/06/2023,08/07/2023
+SQL,12,advanced,13/10/2022,23/10/2022
+Full Stack,52,advanced,24/03/2022,02/04/2022
+ADF,74,basic,27/01/2022,31/01/2022
+DBMS,19,intermediate,12/04/2020,18/04/2020
+Analytics & Reporting,60,advanced,23/07/2023,31/07/2023
+Cloud Platforms,51,intermediate,29/04/2021,05/05/2021
+Data Engineering,32,intermediate,02/11/2021,07/11/2021
+Python & Web Scraping,66,advanced,27/07/2020,04/08/2020
+DBT,17,intermediate,24/10/2023,30/10/2023
+DBMS,23,advanced,17/11/2022,27/11/2022
+ML Basics,76,advanced,21/04/2023,29/04/2023
+DBMS,52,basic,27/02/2020,28/02/2020
+ML Basics,51,basic,25/06/2021,26/06/2021
+SQL,51,advanced,02/06/2020,12/06/2020
+DevOps Operations,33,basic,22/04/2023,23/04/2023
+Git & Version Control,67,intermediate,07/10/2022,13/10/2022
+Analytics & Reporting,48,basic,08/12/2022,09/12/2022
+DBT,77,basic,06/04/2022,07/04/2022
+DBT,49,advanced,27/10/2023,06/11/2023
+Data Engineering,43,basic,15/07/2021,17/07/2021
+Power BI,30,advanced,10/09/2023,20/09/2023
+Power BI,25,basic,18/10/2022,21/10/2022
+ML Basics,34,basic,27/02/2020,29/02/2020
+DBT,12,advanced,02/05/2020,11/05/2020
+Full Stack,53,advanced,03/05/2023,12/05/2023
+Full Stack,42,advanced,02/07/2020,11/07/2020
+Full Stack,48,advanced,22/11/2020,30/11/2020
+Full Stack,10,basic,04/08/2023,05/08/2023
+Analytics & Reporting,72,intermediate,09/03/2024,15/03/2024
+Full Stack,73,basic,04/03/2020,08/03/2020
+Data Warehouse - ETL,43,basic,02/09/2021,03/09/2021
+Git & Version Control,58,basic,22/07/2022,24/07/2022
+Data Warehouse - ETL,69,intermediate,16/03/2023,22/03/2023
+Git & Version Control,19,intermediate,16/03/2020,21/03/2020
+DevOps Operations,59,advanced,24/01/2020,03/02/2020
+ADF,80,intermediate,22/01/2024,28/01/2024
+Cloud Platforms,13,intermediate,27/05/2020,03/06/2020
+ML Basics,25,basic,22/01/2022,24/01/2022
+Data Warehouse - ETL,72,intermediate,25/02/2022,02/03/2022
+SQL,63,advanced,12/03/2020,20/03/2020
+SQL,76,intermediate,24/09/2022,30/09/2022
+ADF,66,advanced,16/07/2021,24/07/2021
+Python for DS,48,intermediate,04/01/2023,11/01/2023
+ADF,44,advanced,20/04/2023,30/04/2023
+Python for DS,31,advanced,02/11/2023,11/11/2023
+DevOps Operations,73,intermediate,10/03/2023,15/03/2023
+ADF,60,basic,14/01/2022,18/01/2022
+ADF,34,basic,05/06/2021,07/06/2021
+ADF,61,basic,06/08/2021,09/08/2021
+Data Engineering,40,basic,04/05/2022,05/05/2022
+SQL,37,advanced,09/11/2020,18/11/2020
+Data Warehouse - ETL,12,advanced,25/07/2022,04/08/2022
+SQL,18,intermediate,14/06/2020,20/06/2020
+Full Stack,66,advanced,17/06/2022,26/06/2022
+Data Engineering,54,intermediate,16/02/2020,23/02/2020
+Data Engineering,45,basic,06/05/2020,10/05/2020
+ADF,17,basic,06/07/2021,09/07/2021
+Analytics & Reporting,30,advanced,04/06/2020,13/06/2020
+Cloud Platforms,28,basic,05/04/2022,09/04/2022
+ADF,16,intermediate,02/02/2023,09/02/2023
+Python for DS,75,basic,02/05/2022,06/05/2022
+Full Stack,67,intermediate,12/07/2020,18/07/2020
+Analytics & Reporting,50,advanced,06/06/2021,16/06/2021
+Full Stack,46,advanced,25/02/2020,04/03/2020
+DevOps Operations,34,intermediate,07/01/2021,12/01/2021
+Python for DS,45,intermediate,26/03/2021,02/04/2021
+DBMS,56,basic,13/09/2023,14/09/2023
+DBT,29,advanced,27/06/2022,06/07/2022
+DBT,37,intermediate,01/08/2021,06/08/2021
+DBT,40,intermediate,16/02/2020,22/02/2020
+Data Engineering,76,basic,16/11/2022,20/11/2022
+Git & Version Control,47,intermediate,16/03/2021,22/03/2021
+Python & Web Scraping,78,advanced,30/10/2021,08/11/2021
+ADF,72,basic,13/07/2022,17/07/2022
+Python & Web Scraping,41,basic,10/04/2022,13/04/2022
+ADF,66,advanced,18/03/2023,28/03/2023
+DBT,58,advanced,22/01/2022,01/02/2022
+Power BI,37,intermediate,25/10/2020,30/10/2020
+DBT,55,advanced,30/08/2023,07/09/2023
+DBMS,10,basic,02/11/2020,03/11/2020
+ADF,50,advanced,07/07/2023,17/07/2023
+DBMS,57,intermediate,18/04/2020,24/04/2020
+Analytics & Reporting,65,basic,30/01/2024,01/02/2024
+DBMS,45,advanced,05/10/2022,13/10/2022
+Analytics & Reporting,14,advanced,09/11/2020,17/11/2020
+Power BI,67,basic,28/01/2021,01/02/2021
+Analytics & Reporting,22,advanced,13/11/2023,21/11/2023
+DevOps Operations,34,basic,01/06/2021,05/06/2021
+Python for DS,60,intermediate,12/12/2020,19/12/2020
+Cloud Platforms,70,intermediate,19/02/2024,25/02/2024
+DBMS,23,advanced,13/12/2020,22/12/2020
+ADF,57,advanced,28/01/2024,07/02/2024
+DevOps Operations,60,advanced,24/03/2021,01/04/2021
+DBT,21,intermediate,14/04/2024,21/04/2024
+Analytics & Reporting,50,advanced,03/10/2023,13/10/2023
+DBMS,53,advanced,14/09/2023,24/09/2023
+DevOps Operations,48,basic,19/09/2022,21/09/2022
+Python for DS,77,intermediate,14/04/2023,20/04/2023
+DevOps Operations,61,advanced,28/05/2023,07/06/2023
+DBMS,29,basic,24/03/2020,28/03/2020
+ADF,57,intermediate,07/10/2022,13/10/2022
+DBMS,34,basic,23/02/2023,26/02/2023
+ML Basics,33,basic,14/05/2022,16/05/2022
+SQL,65,advanced,25/03/2020,03/04/2020
+DBT,33,advanced,15/04/2023,23/04/2023
+ML Basics,46,advanced,31/08/2021,08/09/2021
+Git & Version Control,41,basic,02/09/2020,03/09/2020
+Data Warehouse - ETL,70,advanced,06/02/2022,14/02/2022
+ADF,75,intermediate,07/12/2022,13/12/2022
+Cloud Platforms,25,advanced,13/05/2022,22/05/2022
+Data Engineering,68,advanced,01/12/2020,11/12/2020
+Cloud Platforms,49,basic,08/10/2020,12/10/2020
+ADF,44,advanced,27/04/2020,06/05/2020
+ML Basics,32,intermediate,16/02/2021,23/02/2021
+Cloud Platforms,64,advanced,15/09/2021,25/09/2021
+Full Stack,73,intermediate,30/08/2021,04/09/2021
+Data Engineering,75,basic,23/10/2022,26/10/2022
+Python & Web Scraping,18,intermediate,08/04/2022,14/04/2022
+ML Basics,36,intermediate,26/10/2021,02/11/2021
+SQL,26,advanced,17/09/2021,25/09/2021
+Git & Version Control,78,intermediate,30/07/2022,05/08/2022
+DBT,74,intermediate,25/12/2023,01/01/2024
+SQL,32,advanced,22/05/2021,31/05/2021
+SQL,52,advanced,21/02/2020,29/02/2020
+Cloud Platforms,64,basic,24/04/2021,26/04/2021
+DBT,46,basic,14/12/2022,15/12/2022
+Data Engineering,66,basic,05/02/2024,08/02/2024
+DevOps Operations,32,intermediate,22/08/2023,29/08/2023
+Power BI,52,intermediate,05/02/2022,11/02/2022
+Cloud Platforms,69,advanced,16/07/2021,26/07/2021
+Power BI,77,basic,06/07/2022,09/07/2022
+Git & Version Control,47,basic,14/12/2023,18/12/2023
+DBMS,27,basic,25/06/2022,26/06/2022
+Python for DS,23,advanced,26/03/2021,03/04/2021
+ADF,63,intermediate,04/09/2022,10/09/2022
+Cloud Platforms,33,intermediate,27/11/2023,03/12/2023
+ML Basics,31,intermediate,10/08/2021,16/08/2021
+DBT,72,basic,11/06/2021,12/06/2021
+Python & Web Scraping,18,intermediate,09/03/2024,16/03/2024
+DevOps Operations,73,advanced,02/08/2020,11/08/2020
+DBT,31,advanced,21/07/2020,29/07/2020
+ADF,11,advanced,15/06/2021,23/06/2021
+DBMS,32,advanced,06/06/2023,16/06/2023
+ADF,68,basic,04/09/2022,07/09/2022
+DBMS,74,advanced,04/03/2024,13/03/2024
+DBT,70,intermediate,11/06/2020,18/06/2020
+ML Basics,38,advanced,20/06/2022,29/06/2022
+Git & Version Control,66,intermediate,16/08/2020,22/08/2020
+Python & Web Scraping,34,basic,05/09/2021,09/09/2021
+DBT,63,intermediate,02/04/2023,08/04/2023
+DevOps Operations,42,advanced,06/09/2021,16/09/2021
+Power BI,69,advanced,05/05/2023,15/05/2023
+Python for DS,10,basic,22/11/2021,25/11/2021
+Cloud Platforms,35,intermediate,13/02/2022,18/02/2022
+Full Stack,32,advanced,19/03/2021,28/03/2021
+Python for DS,31,advanced,16/11/2023,24/11/2023
+ML Basics,69,intermediate,22/06/2023,29/06/2023
+ADF,77,advanced,24/01/2020,03/02/2020
+ML Basics,52,advanced,04/02/2023,12/02/2023
+SQL,77,basic,12/12/2022,16/12/2022
+Full Stack,60,basic,28/04/2020,01/05/2020
+ADF,55,advanced,15/12/2022,23/12/2022
+ML Basics,72,basic,08/04/2020,09/04/2020
+ML Basics,73,advanced,05/07/2023,13/07/2023
+Git & Version Control,69,basic,14/12/2022,17/12/2022
+Git & Version Control,36,basic,14/05/2023,16/05/2023
+Analytics & Reporting,45,advanced,04/12/2022,14/12/2022
+Data Engineering,73,intermediate,20/03/2024,25/03/2024
+DBMS,13,intermediate,19/12/2023,24/12/2023
+Analytics & Reporting,53,intermediate,08/10/2020,14/10/2020
+Data Warehouse - ETL,32,advanced,16/05/2022,26/05/2022
+Python & Web Scraping,41,basic,01/02/2020,04/02/2020
+Data Warehouse - ETL,67,advanced,24/03/2024,01/04/2024
+DBT,46,basic,15/07/2020,17/07/2020
+SQL,25,basic,24/08/2020,28/08/2020
+SQL,34,intermediate,24/09/2021,01/10/2021
+ADF,30,advanced,27/11/2021,07/12/2021
+ADF,18,basic,01/09/2023,03/09/2023
+ML Basics,26,intermediate,16/05/2023,22/05/2023
+DBMS,47,intermediate,15/02/2020,22/02/2020
+Full Stack,58,basic,09/04/2020,12/04/2020
+Power BI,58,intermediate,21/04/2021,28/04/2021
+SQL,48,advanced,16/01/2022,25/01/2022
+Python & Web Scraping,21,advanced,13/08/2022,23/08/2022
+SQL,11,basic,09/09/2020,13/09/2020
+DevOps Operations,23,advanced,26/11/2023,06/12/2023
+Python for DS,54,intermediate,20/05/2021,26/05/2021
+Data Warehouse - ETL,29,intermediate,10/07/2021,17/07/2021
+Git & Version Control,66,basic,16/11/2022,19/11/2022
+Python for DS,30,advanced,23/03/2024,31/03/2024
+Python for DS,59,basic,17/02/2020,21/02/2020
+Data Warehouse - ETL,74,basic,25/10/2022,26/10/2022
+Git & Version Control,78,advanced,25/07/2020,02/08/2020
+Analytics & Reporting,46,basic,16/10/2023,19/10/2023
+ADF,67,intermediate,15/03/2021,22/03/2021
+Data Warehouse - ETL,48,advanced,22/02/2024,02/03/2024
+Analytics & Reporting,75,advanced,07/07/2020,15/07/2020
+Data Engineering,42,basic,18/10/2022,19/10/2022
+Data Engineering,50,intermediate,11/12/2020,16/12/2020
+DBMS,24,basic,19/11/2022,22/11/2022
+Cloud Platforms,43,advanced,27/03/2023,04/04/2023
+Analytics & Reporting,79,advanced,16/02/2024,24/02/2024
+SQL,53,advanced,04/07/2022,14/07/2022
+DBMS,36,basic,25/06/2020,26/06/2020
+Analytics & Reporting,36,basic,27/07/2022,31/07/2022
+Full Stack,29,intermediate,06/05/2022,13/05/2022
+DBMS,70,advanced,06/04/2020,15/04/2020
+Data Engineering,13,basic,13/09/2022,16/09/2022
+ADF,50,intermediate,14/07/2023,20/07/2023
+Data Engineering,48,basic,04/02/2024,05/02/2024
+Data Warehouse - ETL,15,advanced,25/04/2023,04/05/2023
+Cloud Platforms,29,advanced,25/03/2022,03/04/2022
+Python & Web Scraping,67,advanced,22/11/2020,02/12/2020
+DBT,37,advanced,29/08/2021,08/09/2021
+ADF,64,basic,15/04/2022,18/04/2022
+Python for DS,25,basic,15/02/2020,19/02/2020
+Python & Web Scraping,63,advanced,23/08/2020,02/09/2020
+Data Engineering,77,intermediate,01/06/2020,06/06/2020
+DBMS,49,intermediate,18/10/2021,24/10/2021
+Full Stack,56,advanced,24/10/2020,02/11/2020
+DBMS,43,advanced,17/04/2020,27/04/2020
+DevOps Operations,16,intermediate,06/03/2024,13/03/2024
+Python & Web Scraping,22,basic,10/09/2021,13/09/2021
+DevOps Operations,27,intermediate,07/09/2021,12/09/2021
+ADF,43,intermediate,22/12/2023,28/12/2023
+DBT,41,intermediate,19/09/2020,26/09/2020
+Python & Web Scraping,19,intermediate,24/12/2023,29/12/2023
+Power BI,80,basic,31/12/2022,01/01/2023
+Python for DS,25,intermediate,29/08/2021,05/09/2021
+DBT,68,basic,04/08/2023,05/08/2023
+Cloud Platforms,15,basic,02/12/2023,05/12/2023
+Power BI,11,basic,17/12/2022,21/12/2022
+ADF,69,advanced,23/07/2021,02/08/2021
+ADF,38,intermediate,07/10/2022,13/10/2022
+Analytics & Reporting,50,basic,12/06/2022,15/06/2022
+Full Stack,50,intermediate,28/02/2022,07/03/2022
+DBT,64,advanced,31/12/2022,08/01/2023
+Git & Version Control,24,advanced,06/08/2023,16/08/2023
+Data Engineering,62,basic,23/02/2024,26/02/2024
+Data Warehouse - ETL,50,intermediate,09/10/2020,16/10/2020
+DBMS,71,basic,26/07/2021,29/07/2021
+DBMS,57,intermediate,15/02/2023,22/02/2023
+Cloud Platforms,45,intermediate,12/02/2023,17/02/2023
+DBT,19,basic,13/05/2021,15/05/2021
+Power BI,21,advanced,01/04/2021,09/04/2021
+DBMS,12,intermediate,05/04/2021,12/04/2021
+Analytics & Reporting,16,intermediate,08/06/2022,15/06/2022
+Analytics & Reporting,75,intermediate,08/07/2021,13/07/2021
+DBT,55,basic,05/09/2021,06/09/2021
+Data Engineering,46,intermediate,09/09/2023,14/09/2023
+ML Basics,26,basic,02/02/2020,04/02/2020
+Data Warehouse - ETL,24,advanced,05/02/2023,13/02/2023
+DevOps Operations,50,advanced,15/05/2020,24/05/2020
+Data Engineering,26,intermediate,12/07/2022,19/07/2022
+Cloud Platforms,56,basic,16/11/2021,20/11/2021
+ML Basics,31,intermediate,19/07/2022,25/07/2022
+Python for DS,20,advanced,18/02/2021,26/02/2021
+Data Engineering,25,intermediate,23/12/2023,29/12/2023
+Power BI,63,advanced,08/02/2022,17/02/2022
+Data Warehouse - ETL,30,advanced,25/09/2022,05/10/2022
+Analytics & Reporting,27,basic,22/01/2021,24/01/2021
+Python & Web Scraping,66,intermediate,02/08/2023,09/08/2023
+SQL,58,advanced,23/02/2020,03/03/2020
+Full Stack,49,basic,24/05/2022,27/05/2022
+Data Engineering,51,intermediate,23/12/2021,28/12/2021
+Analytics & Reporting,42,intermediate,05/07/2022,11/07/2022
+Cloud Platforms,31,basic,11/12/2020,13/12/2020
+Power BI,47,intermediate,19/02/2023,26/02/2023
+Analytics & Reporting,45,basic,03/02/2023,07/02/2023
+ML Basics,63,advanced,11/03/2023,20/03/2023
+DBMS,12,advanced,24/06/2022,03/07/2022
+Power BI,41,advanced,13/01/2024,21/01/2024
+Cloud Platforms,74,basic,29/10/2022,30/10/2022
+Git & Version Control,74,advanced,02/07/2021,11/07/2021
+Power BI,63,basic,03/12/2023,06/12/2023
+Python for DS,56,intermediate,27/10/2020,03/11/2020
+DBT,61,advanced,23/08/2020,31/08/2020
+DBMS,21,basic,29/01/2023,31/01/2023
+SQL,15,basic,15/09/2022,18/09/2022
+Python & Web Scraping,37,basic,25/11/2020,28/11/2020
+ADF,18,intermediate,15/04/2021,22/04/2021
+Analytics & Reporting,44,intermediate,09/04/2023,14/04/2023
+ADF,57,advanced,22/05/2021,31/05/2021
+ML Basics,62,intermediate,07/05/2020,13/05/2020
+DevOps Operations,59,advanced,12/05/2021,20/05/2021
+DevOps Operations,58,intermediate,04/08/2021,11/08/2021
+ML Basics,79,basic,21/09/2022,23/09/2022
+Analytics & Reporting,68,advanced,24/05/2023,03/06/2023
+Analytics & Reporting,36,intermediate,05/12/2020,11/12/2020
+ADF,20,basic,16/12/2020,18/12/2020
+ADF,25,basic,20/11/2021,24/11/2021
+SQL,44,basic,12/02/2022,14/02/2022
+SQL,56,basic,22/11/2023,25/11/2023
+Python & Web Scraping,74,advanced,29/10/2023,06/11/2023
+Data Engineering,62,intermediate,22/01/2021,27/01/2021
+Python for DS,53,basic,15/02/2023,19/02/2023
+ML Basics,47,advanced,26/03/2023,03/04/2023
+DBT,57,basic,06/09/2020,10/09/2020
+DevOps Operations,50,intermediate,02/10/2022,09/10/2022
+ML Basics,50,advanced,05/08/2023,14/08/2023
+Power BI,15,advanced,15/02/2020,25/02/2020
+Cloud Platforms,55,basic,06/06/2022,09/06/2022
+Cloud Platforms,17,basic,07/02/2023,10/02/2023
+Git & Version Control,57,basic,21/04/2023,23/04/2023
+Python for DS,41,intermediate,19/10/2023,26/10/2023
+Git & Version Control,32,basic,17/01/2021,20/01/2021
+DevOps Operations,72,intermediate,13/09/2020,20/09/2020
+Python & Web Scraping,11,basic,17/12/2021,19/12/2021
+Analytics & Reporting,38,basic,13/02/2021,15/02/2021
+Cloud Platforms,17,intermediate,18/07/2022,24/07/2022
+SQL,49,basic,24/06/2020,28/06/2020
+Full Stack,34,basic,24/03/2020,25/03/2020
+DBMS,78,basic,02/06/2022,06/06/2022
+DBT,14,basic,20/12/2020,21/12/2020
+DevOps Operations,21,advanced,08/02/2020,16/02/2020
+Data Warehouse - ETL,67,advanced,27/08/2023,04/09/2023
+Git & Version Control,37,intermediate,01/07/2023,07/07/2023
+DBMS,23,advanced,02/04/2023,12/04/2023
+Data Engineering,64,basic,29/08/2020,31/08/2020
+Cloud Platforms,29,intermediate,16/05/2023,23/05/2023
+Analytics & Reporting,59,basic,05/04/2021,06/04/2021
+ADF,77,intermediate,28/05/2021,04/06/2021
+DevOps Operations,29,advanced,08/09/2020,17/09/2020
+Full Stack,36,intermediate,14/05/2021,20/05/2021
+DBMS,50,basic,17/01/2023,18/01/2023
+DBMS,62,basic,08/09/2021,09/09/2021
+SQL,53,basic,28/03/2021,29/03/2021
+Analytics & Reporting,19,intermediate,10/12/2022,15/12/2022
+Analytics & Reporting,49,basic,08/02/2021,12/02/2021
+Python & Web Scraping,46,advanced,15/01/2024,24/01/2024
+Data Warehouse - ETL,32,advanced,12/08/2023,20/08/2023
+Git & Version Control,39,intermediate,25/08/2020,30/08/2020
+ADF,73,basic,13/12/2020,17/12/2020
+Cloud Platforms,75,advanced,06/04/2020,16/04/2020
+Data Warehouse - ETL,49,intermediate,21/07/2022,26/07/2022
+Data Engineering,69,intermediate,11/04/2021,17/04/2021
+Power BI,13,intermediate,12/11/2020,19/11/2020
+ADF,61,advanced,12/05/2022,20/05/2022
+DevOps Operations,75,basic,26/12/2020,28/12/2020
+ADF,42,advanced,20/12/2022,30/12/2022
+Python for DS,79,basic,18/06/2020,20/06/2020
+Cloud Platforms,26,advanced,01/12/2023,11/12/2023
+SQL,51,basic,05/05/2023,06/05/2023
+DBT,52,basic,09/12/2022,12/12/2022
+Cloud Platforms,78,advanced,06/04/2023,15/04/2023
+Git & Version Control,21,basic,25/10/2022,28/10/2022
+DBMS,41,intermediate,30/06/2021,07/07/2021
+DBMS,79,advanced,27/10/2022,06/11/2022
+DBMS,17,advanced,15/04/2022,23/04/2022
+DevOps Operations,42,advanced,25/06/2020,03/07/2020
+Full Stack,25,advanced,25/12/2020,04/01/2021
+DBMS,77,intermediate,20/03/2021,27/03/2021
+Analytics & Reporting,60,intermediate,30/05/2022,06/06/2022
+Full Stack,69,basic,15/10/2023,19/10/2023
+SQL,59,basic,17/10/2022,18/10/2022
+Git & Version Control,59,basic,04/06/2023,08/06/2023
+ML Basics,16,intermediate,08/03/2024,15/03/2024
+ADF,24,intermediate,18/01/2021,23/01/2021
+Data Engineering,76,advanced,07/10/2020,17/10/2020
+DBT,19,basic,26/01/2024,28/01/2024
+Cloud Platforms,46,basic,02/10/2021,06/10/2021
+Power BI,21,advanced,02/09/2023,11/09/2023
+Analytics & Reporting,51,intermediate,31/03/2022,07/04/2022
+Data Warehouse - ETL,68,basic,08/05/2022,11/05/2022
+Data Engineering,47,advanced,06/03/2020,14/03/2020
+Full Stack,29,intermediate,28/01/2020,04/02/2020
+Data Engineering,26,intermediate,22/07/2023,29/07/2023
+Data Engineering,28,intermediate,24/12/2022,29/12/2022
+SQL,11,intermediate,07/09/2022,13/09/2022
+ADF,60,intermediate,13/03/2022,18/03/2022
+Data Warehouse - ETL,57,intermediate,14/05/2023,19/05/2023
+ML Basics,17,intermediate,12/03/2022,17/03/2022
+Power BI,71,basic,23/07/2020,27/07/2020
+Full Stack,76,intermediate,11/12/2022,16/12/2022
+Cloud Platforms,28,intermediate,23/05/2022,28/05/2022
+Data Engineering,15,basic,02/08/2022,03/08/2022
+DBMS,42,intermediate,13/08/2023,19/08/2023
+Data Warehouse - ETL,70,intermediate,23/10/2020,30/10/2020
+Git & Version Control,41,basic,06/12/2021,08/12/2021
+ML Basics,50,basic,26/03/2022,29/03/2022
+SQL,42,basic,01/01/2024,05/01/2024
+Python & Web Scraping,28,intermediate,05/12/2020,10/12/2020
+DBT,62,basic,14/09/2022,16/09/2022
+Data Warehouse - ETL,11,advanced,02/03/2024,11/03/2024
+Data Engineering,40,intermediate,03/04/2022,08/04/2022
+Cloud Platforms,46,intermediate,21/06/2023,28/06/2023
+DevOps Operations,47,advanced,14/09/2021,22/09/2021
+Python for DS,56,advanced,06/12/2020,15/12/2020
+Power BI,45,basic,13/11/2023,16/11/2023
+ADF,74,basic,07/09/2023,08/09/2023
+Analytics & Reporting,60,basic,07/08/2023,10/08/2023
+Python for DS,15,basic,13/05/2020,17/05/2020
+Cloud Platforms,25,basic,23/02/2024,26/02/2024
+Python for DS,77,intermediate,04/07/2020,11/07/2020
+Data Warehouse - ETL,54,basic,09/08/2022,13/08/2022
+Power BI,50,intermediate,30/05/2021,06/06/2021
+Power BI,33,intermediate,17/02/2023,23/02/2023
+Python for DS,41,advanced,11/04/2022,20/04/2022
+DBT,63,advanced,16/12/2022,24/12/2022
+DevOps Operations,33,advanced,14/09/2021,24/09/2021
+SQL,71,basic,03/11/2020,05/11/2020
+DBMS,69,advanced,29/04/2020,09/05/2020
+Power BI,10,intermediate,24/03/2021,30/03/2021
+Python & Web Scraping,16,advanced,30/04/2022,10/05/2022
+Git & Version Control,49,basic,20/02/2024,24/02/2024
+Git & Version Control,73,intermediate,04/03/2020,11/03/2020
+Full Stack,69,intermediate,27/12/2021,03/01/2022
+SQL,35,basic,20/08/2021,21/08/2021
+Data Warehouse - ETL,34,basic,17/01/2023,21/01/2023
+ML Basics,35,advanced,01/02/2023,09/02/2023
+Cloud Platforms,60,basic,20/07/2022,24/07/2022
+DevOps Operations,63,basic,11/02/2020,14/02/2020
+DevOps Operations,80,advanced,16/02/2024,25/02/2024
+Git & Version Control,43,intermediate,17/04/2024,24/04/2024
+SQL,14,basic,19/09/2023,20/09/2023
+Power BI,72,basic,24/02/2022,25/02/2022
+Full Stack,76,intermediate,02/10/2020,09/10/2020
+SQL,35,intermediate,08/05/2021,13/05/2021
+Cloud Platforms,63,advanced,06/07/2022,14/07/2022
+Python & Web Scraping,66,basic,03/03/2023,07/03/2023
+DBT,11,intermediate,08/05/2023,13/05/2023
+Python for DS,39,basic,06/11/2022,09/11/2022
+Power BI,31,basic,14/11/2023,15/11/2023
+Data Engineering,48,basic,09/07/2023,10/07/2023
+Data Warehouse - ETL,34,basic,07/10/2023,10/10/2023
+Full Stack,75,advanced,01/04/2024,10/04/2024
+DBMS,58,basic,21/04/2023,22/04/2023
+Python & Web Scraping,65,advanced,02/10/2021,11/10/2021
+Data Warehouse - ETL,30,basic,06/07/2022,10/07/2022
+Power BI,36,basic,06/08/2022,08/08/2022
+Data Warehouse - ETL,29,advanced,13/07/2020,23/07/2020
+DBT,75,advanced,21/12/2020,29/12/2020
+Python for DS,64,basic,28/04/2020,30/04/2020
+Data Engineering,11,advanced,06/04/2021,14/04/2021
+Power BI,37,basic,09/04/2021,12/04/2021
+Full Stack,48,advanced,02/02/2024,11/02/2024
+Analytics & Reporting,30,basic,14/03/2020,18/03/2020
+Data Engineering,18,intermediate,29/05/2020,05/06/2020
+Full Stack,51,advanced,13/09/2022,23/09/2022
+Git & Version Control,12,intermediate,19/05/2020,26/05/2020
+Cloud Platforms,59,advanced,20/07/2021,29/07/2021
+ML Basics,50,basic,23/01/2023,26/01/2023
+Analytics & Reporting,67,basic,07/11/2020,09/11/2020
+Git & Version Control,12,basic,01/08/2022,02/08/2022
+ADF,80,intermediate,28/04/2022,03/05/2022
+Data Engineering,35,intermediate,23/06/2020,30/06/2020
+DevOps Operations,13,basic,06/05/2021,08/05/2021
+ML Basics,49,advanced,27/11/2022,06/12/2022
+DevOps Operations,71,basic,07/03/2023,10/03/2023
+Data Warehouse - ETL,26,intermediate,06/06/2023,12/06/2023
+ML Basics,47,advanced,24/12/2022,01/01/2023
+DBMS,35,intermediate,10/01/2022,17/01/2022
+DBT,18,intermediate,02/04/2024,07/04/2024
+Python & Web Scraping,22,intermediate,23/11/2022,29/11/2022
+DBMS,68,basic,28/04/2022,02/05/2022
+Git & Version Control,45,advanced,27/02/2022,08/03/2022
+Cloud Platforms,24,intermediate,04/02/2020,09/02/2020
+ML Basics,72,basic,13/10/2021,14/10/2021
+Python for DS,78,basic,18/09/2022,22/09/2022
+DBT,39,basic,29/01/2023,01/02/2023
+ADF,50,advanced,19/04/2023,28/04/2023
+DevOps Operations,17,intermediate,28/08/2023,02/09/2023
+DBMS,30,advanced,06/11/2021,16/11/2021
+DBT,50,advanced,29/01/2021,08/02/2021
+Python & Web Scraping,44,basic,28/04/2021,02/05/2021
+ADF,52,intermediate,19/02/2024,24/02/2024
+Power BI,38,intermediate,09/03/2022,14/03/2022
+Data Warehouse - ETL,34,intermediate,17/02/2020,22/02/2020
+Data Warehouse - ETL,56,basic,31/03/2020,02/04/2020
